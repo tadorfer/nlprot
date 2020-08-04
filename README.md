@@ -1,5 +1,9 @@
 ## Papers & Blog Posts on NLP for proteins
 
+**ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing**  
+Ahmed Elnaggar, Michael Heinzinger, Christian Dallago, Ghalia Rihawi, Yu Wang, Llion Jones, Tom Gibbs, Tamas Feher, Christoph Angerer, Martin Steinegger, Debsindhu Bhowmik, Burkhard Rost  
+_arXiv_, July 2020 | [Paper](https://arxiv.org/abs/2007.06225)
+
 **BERTology Meets Biology: Interpreting Attention in Protein Language Models**  
 Jesse Vig, Ali Madani, Lav R. Varshney, Caiming Xiong, Richard Socher, Nazneen Fatema Rajani  
 _arXiv_, July 2020 | [Paper](https://arxiv.org/abs/2006.15222) | [Blog](https://blog.einstein.ai/provis/)
